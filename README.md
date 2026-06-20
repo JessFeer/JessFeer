@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Jessica 👋
 
 - 👩🏻‍🎓 Formada no Curso de Análise e Desenvolvimento de Sistemas na Fatec Ipiranga - SP.
-- 🌱 Atualmente, trabalho na empresa TOTVS como Analista de Sistemas.
+- 🎯 Buscando recolocação como Desenvolvedora Backend (C# / .NET) ou Mobile (Kotlin / Android).
 - 😄 Pronomes: Ela/Dela.
 
 ______________________________________________________________________________________
